@@ -64,6 +64,7 @@ sudo install DESTDIR=/usr/src/bitcoinexe # 后面加上你的目标编译目录
 
 
 # 区块浏览器
+测试
 
 
 
